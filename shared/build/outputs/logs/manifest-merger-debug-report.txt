@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml:2:13-83
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml:2:13-83
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml:2:13-83
+	package
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+		ADDED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml:2:13-83
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+	xmlns:android
+		ADDED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml:2:23-81
+uses-sdk
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml reason: use-sdk injection requested
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+	android:targetSdkVersion
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+		ADDED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+	android:minSdkVersion
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+		ADDED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
+		INJECTED from /Users/buuvinhpro/Documents/KotlinMultiplatform/SampleApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4997503691242484200.xml
